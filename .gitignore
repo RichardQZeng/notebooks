@@ -6,3 +6,4 @@
 PyQGIS/symbology-style.db
 qgis/symbology-style.db
 *.pyc
+/beratools/cache
